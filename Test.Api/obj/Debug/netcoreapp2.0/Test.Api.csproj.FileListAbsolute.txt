@@ -1,0 +1,14 @@
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\Test.Api.deps.json
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\Test.Api.runtimeconfig.json
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\Test.Api.runtimeconfig.dev.json
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\Test.Api.dll
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\Test.Api.pdb
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\GraphQL.Server.Transports.WebSockets.dll
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\GraphQL.Server.Transports.AspNetCore.pdb
+C:\Users\403472\Downloads\pekkah\Test.Api\bin\Debug\netcoreapp2.0\GraphQL.Server.Transports.WebSockets.pdb
+C:\Users\403472\Downloads\pekkah\Test.Api\obj\Debug\netcoreapp2.0\Test.Api.csproj.CoreCompileInputs.cache
+C:\Users\403472\Downloads\pekkah\Test.Api\obj\Debug\netcoreapp2.0\Test.Api.AssemblyInfoInputs.cache
+C:\Users\403472\Downloads\pekkah\Test.Api\obj\Debug\netcoreapp2.0\Test.Api.AssemblyInfo.cs
+C:\Users\403472\Downloads\pekkah\Test.Api\obj\Debug\netcoreapp2.0\Test.Api.dll
+C:\Users\403472\Downloads\pekkah\Test.Api\obj\Debug\netcoreapp2.0\Test.Api.pdb

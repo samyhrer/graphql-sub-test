@@ -19,7 +19,7 @@ This example app contains a prebuilt Client side app in wwwroot/demo/build
 - dotnet run
 - Open browser on localhost:50166/demo/build/index.html
 
-How to Build the client side app
+(Optional step) How to Build the client side app
 ================================
 - Goto Test.Api/wwwroot/demo
 - yarn
